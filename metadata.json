@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Senhas",
+  "description": "Uma aplicação que gera senhas seguras e aleatórias para o uso diário, com base em critérios definidos pelo usuário, como comprimento e tipos de caracteres.",
+  "requestFramePermissions": []
+}
